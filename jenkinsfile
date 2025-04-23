@@ -30,3 +30,5 @@ pipeline {
             bat '.\\mvnw.cmd clean package'
     }
 }
+}
+}
